@@ -1,0 +1,13 @@
+/Users/Garnet3106/Desktop/fontokodoj/sfa-alarmo/bin/Debug/SFA Alarmo.exe
+/Users/Garnet3106/Desktop/fontokodoj/sfa-alarmo/bin/Debug/SFA Alarmo.pdb
+/Users/Garnet3106/Desktop/fontokodoj/sfa-alarmo/obj/Debug/actool/_PartialAppManifest.items
+/Users/Garnet3106/Desktop/fontokodoj/sfa-alarmo/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/Garnet3106/Desktop/fontokodoj/sfa-alarmo/obj/Debug/ibtool-manifests/Main.storyboardc
+/Users/Garnet3106/Desktop/fontokodoj/sfa-alarmo/obj/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/Garnet3106/Desktop/fontokodoj/sfa-alarmo/obj/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/Garnet3106/Desktop/fontokodoj/sfa-alarmo/obj/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/Garnet3106/Desktop/fontokodoj/sfa-alarmo/obj/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/Garnet3106/Desktop/fontokodoj/sfa-alarmo/obj/Debug/sfa-alarmo.csprojAssemblyReference.cache
+/Users/Garnet3106/Desktop/fontokodoj/sfa-alarmo/obj/Debug/sfa-alarmo.csproj.CoreCompileInputs.cache
+/Users/Garnet3106/Desktop/fontokodoj/sfa-alarmo/obj/Debug/SFA Alarmo.exe
+/Users/Garnet3106/Desktop/fontokodoj/sfa-alarmo/obj/Debug/SFA Alarmo.pdb
